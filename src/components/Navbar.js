@@ -16,7 +16,7 @@ const Navbar=(props) => {
                 alt=""
                 width="40"
                 height="40"
-                class="d-inline-block align-text-top"
+                className="d-inline-block align-text-top"
               />
                {/* <img id="footer"src="news_1.gif" alt="" style={{width:'50px',height:'50px'}}/> */}
               <strong className="mx-2 align-middle">QucikNews</strong>
